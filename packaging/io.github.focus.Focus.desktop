@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Focus
+Comment=Pomodoro e tarefas, um passo de cada vez
+Exec=focus
+Icon=io.github.focus.Focus
+Terminal=false
+Categories=Office;ProjectManagement;
+Keywords=Pomodoro;Timer;Tarefas;Produtividade;
+StartupNotify=false
